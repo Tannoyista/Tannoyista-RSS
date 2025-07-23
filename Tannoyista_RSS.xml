@@ -3,10 +3,12 @@
   <channel>
     <title>Tannoyista Audio Reviews</title>
     <link>https://www.tannoyista.com/</link>
+    <atom:link href="https://tannoyista.github.io/Tannoyista-RSS/Tannoyista_RSS.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
     <description>Latest hi-fi reviews, speaker tests, and valve amplifier insights</description>
     <language>en-gb</language>
     <lastBuildDate>Thu, 05 Jun 2025 10:00:00 GMT</lastBuildDate>
     <managingEditor>contact.tannoyista@gmail.com (Josie Lewis)</managingEditor>
+    <!-- ...rest of your feed... -->
 
 
 <item><title>Acoustic Energy AE509 Loudspeakers</title>
